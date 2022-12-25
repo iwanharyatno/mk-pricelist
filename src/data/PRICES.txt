@@ -1,0 +1,272 @@
+PRODUK
+USB Flashdisk 8 GB SandDisk Cruzer Blade USB 2.0 62.500 70.000
+USB Flashdisk 16 GB SandDisk Cruzer Blade USB 2.0 67.500 75.000
+USB Flashdisk 32 GB SandDisk Cruzer Blade USB 2.0 72.500 80.000
+USB Flashdisk 32 GB SandDisk Ultra Dual USB Drive Micro 107.500 115.000
+USB Flashdisk 32 GB SandDisk Ultra Dual USB Drive Type C 142.500 150.000
+USB Flashdisk 32 GB HP V178B USB 2.0 87.500 95.000
+USB Flashdisk 16 GB HP V150W USB 2.0 67.500 75.000
+USB Flashdisk 32 GB HP V150W USB 2.0 67.500 75.000
+USB Flashdisk 8 GB Atom V-Gen USB 2.0 Flash Drive 57.500 65.000
+USB Flashdisk 16 GB Atom V-Gen USB 2.0 Flash Drive 57.500 65.000
+USB Flashdisk 32 GB V-Gen Avatar USB 2.0 Flash Drive 62.500 70.000
+USB Flashdisk 64 GB Kingston 137.500 145.000
+USB Flashdisk 128 GB Kingston 197.500 205.000
+USB Flashdisk 32 GB Kioxia USB 2.0 57.500 65.000
+USB Flashdisk 16 GB Kioxia USB 2.0 57.500 65.000
+USB Flashdisk 16 GB Netac USB 2.0 57.500 65.000
+USB Flashdisk 32 GB Netac USB 2.0 77.500 85.000
+OTG Connect Kit S-K07 Mobile Phone 20.000 27.500
+OTG Type C Dongle 20.000 27.500
+OTG Type-C KY-167 Cable Metal Sheel 25.000 32.500
+SD CARD - MMC - CARD READER
+SD Card SDHC 32 GB SandDisk Ultra UHS-I Card 117.500 125.000
+SD Card SDXC 64 GB SandDisk Ultra UHS-I Card 167.500 175.000
+SD Card SDXC 128 GB V-Gen for DLSR Camera 277.500 285.000
+Micro SD 8 GB V-Gen (Non Adapter) Class 6 52.500 60.000
+Micro SD 16 GB V-Gen Hyper (Non Adapter) Class 10 92.500 100.000
+Micro SD 32 GB V-Gen Turbo Class 10 77.500 85.000
+Micro SD 64 GB V-Gen Turbo Class 10 127.500 135.000
+Card Reader Rotasi 15.000 22.500
+CardReader All in One 480 Mbps Hi Speed+ 42.500 50.000
+SPLITTER
+HDMI Splitter 2 Port 1080P 3D ver 1.4 127.500 135.000
+HDMI Splitter 4 Port 1080P 3D ver 1.4 142.500 150.000
+VGA Splitter 2 Port VGA-2002 200 Mhz 85.000 92.500
+VGA Splitter 2 Port Bafo for big screen LCD TV & Projector 162.500 170.000
+VGA Splitter 4 Port 200 Mhz 107.500 115.000
+VGA Splitter 8 Port 200 Mhz 152.500 160.000
+USB SWITCH
+USB Sharing Switch 2 Port Auto USB 2.0 102.500 110.000
+USB Sharing Switch 4 Port Auto USB 2.0 167.500 175.000
+USB HUB
+USB HUB 4 Ports ORICO 137.500 145.000
+USB HUB 10 Ports 480 Mbps 72.500 80.000
+USB HUB 4 Port SanurPro SN-07-L USB 3.0 1.2 M 72.500 80.000
+DVD
+DVD-R Plus GT-PRO 10.500 18.000
+DVD-RW GT-PRO 14.000 21.500
+CD-R GT-PRO 10.500 18.000
+CASING HDD EKSTERNAL
+Casing HDD Orico 2577U3 152.500 160.000
+Casing HDD Seagate 97.500 105.000
+Casing HDD Orico Transparant 97.500 105.000
+CASING CPU
+Casing NCT 52.500 60.000
+Casing Alzatroz Futura N1000 407.500 415.000
+Casing Magix 297.500 305.000
+MOTHERBOARD
+Gigabyte H310M-DS2 1.032.500 1.040.000
+PROCESSOR
+INTEL i5 10400 2.9 GHz BOX 1.857.500 1.865.000
+MEMORY - RAM
+DDR3 4 GB V-Gen Rescue | PC3L-12800S 1600 Mhz (for Laptop) 262.500 270.000
+DDR3 4 GB V-Gen Resque | PC3-12800U 1600 Mhz (for PC) 247.500 255.000
+DDR3 8 GB V-Gen Rescue | PC3-12800U 1600 Mhz (for PC) 437.500 445.000
+DDR4 4 GB V-Gen Rescue | PC4-2400T 2400 Mhz (for PC) 297.500 305.000
+DDR4 4 GB V-Gen Rescue | PC4-2400T 2400 Mhz (for Laptop) 297.500 305.000
+DDR4 8 GB V-Gen Rescue | PC4-2400T 2400 Mhz (for Laptop) 507.500 515.000
+DDR4 8 GB V-Gen Rescue | PC4-19200 2400 Mhz (for PC) 457.500 465.000
+MEMORY - SSD (SOLID STATE DRIVE)
+SSD m.2 NVMe 256 GB V-Gen Hyper 457.500 465.000
+SSD INT 2,5" V-GEN 128GB 257.500 265.000
+SSD INT 2,5" V-GEN 256GB 542.500 550.000
+SSD INT 2,5" V-GEN 512GB 607.500 615.000
+SSD INT 2,5" KINGSTONE 120GB 402.500 410.000
+HARDDISK INTERNAL
+HARDISK SEAGATE 3,5" 500GB (for PC) | GRS 1TH 257.500 265.000
+HARDISK SEAGATE 3,5" 1TB (for PC) | GRS 1TH 507.500 515.000
+HARDISK SEAGATE 2,5" 500GB (for Laptop) | GRS 1TH 257.500 265.000
+HARDISK SEAGATE 3,5" 1TB (for Laptop) | GRS 1TH 592.500 600.000
+HDD (HARDDISK DRIVE) EKSTERNAL 62.500 70.000
+HDD Ext Seagate Backup Plus 2TB 1.157.500 1.165.000
+HDD Ext Seagate One Touch 1TB 857.500 865.000
+HDD Ext Seagate Expansion 500GB 707.500 715.000
+POWER SUPPLY 62.500 70.000
+Power Supply 400 Watt Simbadda 257.500 265.000
+Power Supply 450 Watt Simbadda 332.500 340.000
+Power Supply 500 Watt Magix Predator 147.500 155.000
+Power Supply 500 Watt Bionic 132.500 140.000
+DVD INT & EXT
+DVD Internal 197.500 205.000
+DVD Ext 3,5" USB 2.0 132.500 140.000
+DVD Ext 3,5" USB 2.0/3.0 197.500 205.000
+DVD Writer Ultra Thin 252.500 260.000
+MONITOR
+Monitor 19" SPC SM-19D 982.500 990.000
+Monitor Acer K2 20" 1.302.500 1.310.000
+Screen Cleaning Kit KCL-02 16.000 23.500
+KEYBOARD
+Keyboard USB Sanupro 47.500 55.000
+Keyboard USB Logitech K120 122.500 130.000
+Keyboard + Mouse Wireless Multimedia 177.500 185.000
+Keyboard + Mouse Wireless Divipard KM530 197.500 205.000
+Keyboard + Mouse Wireless Logitech MK220 257.500 265.000
+Keyboard + Mouse USB Logitech MK120 207.500 215.000
+Keyboard + Mouse USB Magix KM-0025 67.500 75.000
+Keyboard + Mouse USB Mikuso KB-C012 117.500 125.000
+Keyboard + Mouse USB Rapoo X120 Pro 142.500 150.000
+Keyboard + Mouse USB HP KM100 157.500 165.000
+Flexibel Keyboard 67.500 75.000
+MOUSE
+Mouse USB Logitech B100 57.500 65.000
+Mouse USB Rapoo N100 57.500 65.000
+Mouse USB Fantech T533 52.500 60.000
+Mouse USB MicroPack BT-369 67.500 75.000
+Mouse USB Banda B300 3D Optical Mouse 37.500 45.000
+Mouse USB Acer 37.500 45.000
+Mouse USB Lenovo 37.500 45.000
+Mouse USB Sturdy Optical Wheel Mouse 37.500 45.000
+Mouse Wireless Rexus Q35 72.500 80.000
+Mouse Wireless Obama RX-837 25.000 32.500
+Mouse Wireless Lenovo 2.4 G Optical Mouse 62.500 70.000
+Mouse Wireless Acer 2.4 G Optical Mouse 62.500 70.000
+Mouse Wireless Dell 2.4 G Optical Mouse 62.500 70.000
+Mouse Wireless iMice E-1300 97.500 105.000
+Mouse Wireless Logitech M170 127.500 135.000
+Mouse Wireless Banda W405 57.500 65.000
+COOLING FAN - PASTA PROCESSOR 62.500 70.000
+Fan/Cooler Laptop V19 62.500 70.000
+Fan/Cooler Laptop Samoon NC32 52.500 60.000
+Cooler CPU King Cooler 57.500 65.000
+Cooling CPU Radiator Matrix Aeolus S8 30.000 37.500
+Thermal Grease Pasta HY510 20.000 27.500
+Thermal Grease Pasta HT-GY260 20.000 27.500
+MICROPHONE
+Microphone G22 Black 757.500 765.000
+Lavalier Microphone JBC-050 42.500 50.000
+MOUSE PAD
+Mouse Pad Logitech 13.500 21.000
+Mouse Pad Biasa (bantalan) 12.500 20.000
+SECOND HDD CADDY
+Second HDD Caddy 9.5 mm 47.500 55.000
+Second HDD Caddy 12.7 mm 42.500 50.000
+JOYSTICK
+2 Shocks Joystick USB 2.0 42.500 50.000
+PC Twinshock Joypad UC-JS70852 87.500 95.000
+CCTV
+DVR 4 CH HikVision iDS-7204HQHI-M1/E (Analog) 1.042.500 1.050.000
+DVR 8 CH HikVision iDS-7208HQHI-M1/E (Analog) 1.607.500 1.615.000
+NVR 4 CH HikVision DS-7604NI-Q1 /Black 1.257.500 1.265.000
+NVR 8 CH HikVision DS-7608NI-Q1 /Black 1.207.500 1.215.000
+Camera IP Indoor HikVision DS-2CD1121-I (2.88 mm) /White 657.500 665.000
+Camera IP Outdoor HikVision DS-2CD1021-I (2.88 mm) /White 657.500 665.000
+Camera Analog Indoor HikVision DS-2CE76D0T-EXIPF (2.8 mm) /White 282.500 290.000
+Camera Analog Outdoor HikVision DS-2CE16D0T-EXIPF (2.88 mm) /White 332.500 340.000
+HEADSET
+Headset Sony MDR-ZX320 62.500 70.000
+Headset Sony MDR-XB450AP 62.500 70.000
+Headset Gaming Rexus RX995 Vionix 87.500 95.000
+Headset Tucci TC-L770MV 72.500 80.000
+Headset Bluetooth V-Gen VH-A01 207.500 215.000
+Headset Logitech H111 132.500 140.000
+Headset Logitech H150 182.500 190.000
+SPEAKER
+Speaker Simbada CST 360N 152.500 160.000
+Speaker Leerfei YST-1046 87.500 95.000
+Speaker Logitech Z120 192.500 200.000
+LASER POINTER
+Laser Pointer Presenter PP-1000 82.500 90.000
+Laser Pointer Wireless Presenter PP-927 122.500 130.000
+WEBCAM
+Webcam HD 720 132.500 140.000
+Webcam Logitech C270 HD 347.500 355.000
+LAIN-LAIN
+Kepala Charger V-Gen 1.2 A VTC1-07A 37.500 45.000
+Kepala Charger V-Gen 2 port VTC2-06A 47.500 55.000
+Kabel Data Type-C V-Gen VCX-02 1M 27.500 35.000
+Kabel Data Type-C V-Gen VCB-12 42.500 50.000
+Kabel Data 2.1 A Max Cable Quick 37.500 45.000
+USB Bluetooth Adapter 5.0 Orico 97.500 105.000
+USB Dongle Bluetooth 5.0 52.500 60.000
+Wireless Music Receiver 5.0 52.500 60.000
+Notebook Computer Lock With Pin 27.500 35.000
+Kabel Type-C to Audio Female KY-186 37.500 45.000
+Wireless Dongle HDMI Anycast M9 97.500 105.000
+Movable Mobile Phone Holder Informa 207.500 215.000
+Charger Mobil 2 Port V-Gen VCC2-07A 52.500 60.000
+Fast Charger Mobil 4 Port V-Gen VCC4-02 1500 mm 147.500 155.000
+Kabel External HDD 3.0/MicroB 45 cm Sky Hub 27.500 35.000
+Computer Mini Vacum FD-368 32.500 40.000
+Micro USB to HDMI Adapter 77.500 85.000
+HDTV Adapter S3 to HDMI Adapter 147.500 155.000
+USB 2.0 Cable 28 AWG + 24 AWG Gauge 20.000 27.500
+Audio Splitter U 20.000 27.500
+Case HDD External Seagate 37.500 45.000
+Tripod KA-T1 47.500 55.000
+NETWORK
+Switch HUB D-LINK DGS-1005A 5-Port Gigabit 227.500 235.000
+Switch HUB D-LINK DGS-108GL 8-Port Gigabit 407.500 415.000
+Switch HUB D-LINK DGS-1024A 24-Port Gigabit 1.007.500 1.015.000
+Switch HUB D-LINK DGS-1024C 24-Port Gigabit 1.107.500 1.115.000
+Wireless USB Adapter D-LINK N150 Pico 102.500 110.000
+Access Point D-Link DAP-1325 242.500 250.000
+Modem Router D-Link DSL-2730E 332.500 340.000
+Wireless Acces Point N300 D-LINK DAP-1360 357.500 365.000
+PCI D-Link DGE-528T Gigabit 142.500 150.000
+TP-LINK
+Switch HUB TP-LINK 8-Port Gigabit TL-SG108 437.500 445.000
+Switch HUB TP-LINK 5-Port TL-SF1005D 10/100 Mbps 107.500 115.000
+Switch HUB TP-LINK 8-Port TL-SF1008D 10/100 Mbps 152.500 160.000
+Wireless USB Adapter TP-LINK TL-WN727N 150 Mbps 102.500 110.000
+Wireless USB Adapter TP-LINK TL-WN722N High Gain 152.500 160.000
+Wifi Router TP-LINK TL-WR820N Multi-Mode 300 Mbps 172.500 180.000
+Wifi Router TP-LINK TL-WR840N 300 Mbps 197.500 205.000
+LAN Card TP-Link TG-3468 Gigabit 132.500 140.000
+MIKROTIK
+Mikrotik Hap Mini RB931-2nD 357.500 365.000
+Mikrotik Hex RB750Gr 3 982.500 990.000
+PCI EXPRESS
+PCI Series Adapter 77.500 85.000
+PCI-E Sound 157.500 165.000
+PCI Sound Card 72.500 80.000
+LAN ADAPTER
+USB LAN CARD USB 2.0 Ethernet Adapter 52.500 60.000
+USB LAN 52.500 60.000
+USB LAN CARD USB 3.0 Ethernet Adapter 10/100/1000 Mbps 132.500 140.000
+3 port USB HUB Muti-Function LAN Adapter 167.500 175.000
+CONVERTER 62.500 70.000
+HD Drive Converter to SATA Cable USB 3.0 97.500 105.000
+Converter Display Port to HDMI Adapter 57.500 65.000
+Converter Display Port to VGA Adapter 57.500 65.000
+Converter HDMI to VGA Adapter 97.500 105.000
+Converter HDMI to VGA and Audio Adapter 57.500 65.000
+Converter HDMI to VGA 57.500 65.000
+Converter HDMI To AV 97.500 105.000
+Converter USB 3.0 to VGA 107.500 115.000
+Converter HDTV to VGA Adapter 52.500 60.000
+Converter VGA To AV 97.500 105.000
+Converter DVI to VGA NYK 52.500 60.000
+Converter Mini HDMI 2AV RCA 97.500 105.000
+CRIMPING TOOL
+Modular Crimping Tool HT-500R 92.500 100.000
+Crimping Tool Sanupro 92.500 100.000
+Crimping Tool HT-2810R 272.500 280.000
+Crimping & Cable Testing TL-N568CR 347.500 355.000
+Pro's Kit Tool/MultiFunction Telephone Tool Crimps For RJ45/RJ11 107.500 115.000
+KABEL VGA
+Kabel VGA 1.5m Standart 37.500 45.000
+Kabel VGA 1.5m D-Gilink Gold 47.500 55.000
+Kabel VGA 3m D-Gilink Gold 57.500 65.000
+Kabel VGA 5m D-Gilink Gold 77.500 85.000
+Kabel VGA 10m D-Gilink Gold 132.500 140.000
+Kabel VGA 15m D-Gilink Gold 157.500 165.000
+Kabel VGA 25m D-Gilink Gold 197.500 205.000
+Kabel VGA 30m D-Gilink Gold 267.500 275.000
+KABEL HDMI
+Kabel HDMI 1.5m 22.500 30.000
+Kabel HDMI 3m 37.500 45.000
+Kabel HDMI 5m 72.500 80.000
+Kabel HDMI 10m 102.500 110.000
+Kabel HDMI 15m 167.500 175.000
+Kabel HDMI 25m 247.500 255.000
+Kabel HDMI 30m 267.500 275.000
+NETWORKING
+LAN Tester Standard 52.500 60.000
+AMP Konektor RJ45 Cat 5 (1 pck isi 50 pcs) (ecer 3.000) 117.500 125.000
+Kabel LAN UTP Cat 5 Belden 1 Roll/305 m (ecer 8.000) 1.907.500 1.915.000
+Kabel LAN UTP Cat 6 Belden 1 Roll/305 m (ecer 9.000) 2.607.500 2.615.000
+Mini Gender Changer 19.500 27.000
+Roset Telp 1 Lobang Kitani 19.500 27.000
+Roset Telp 2 Lobang Kitani 19.500 27.000
+Barel RJ45 Coupler 15.500 23.000
