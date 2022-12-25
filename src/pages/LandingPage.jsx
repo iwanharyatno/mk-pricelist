@@ -4,18 +4,18 @@ import { useEffect } from 'react';
 
 function LandingPage() {
   useEffect(() => {
-    document.title = 'Koleksi Aksesoris Komputer';
+    document.title = 'Mitra Komputer Sokaraja - Unofficial Website';
   }, []);
 
   return (
     <>
       <Hero>
         <h1 className="animate-slide-right-fade md:text-center text-4xl mb-6">Semua aksesoris Komputer yang pernah anda pikirkan.</h1>
-        <p className="animate-slide-right-fade font-light">Produk MITRA KOMPUTER dapat memenuhi semua kebutuhan untuk komputer, laptop atau bahkan smartphone anda.</p>
+        <p className="animate-slide-right-fade font-light">Produk MITRA KOMPUTER SOKARAJA dapat memenuhi semua kebutuhan untuk komputer, laptop atau bahkan smartphone anda.</p>
       </Hero>
       <Section>
         <h2 className="text-2xl text-blue-500 mb-6 text-center">Kerja sama dengan SMK Negeri 1 Purwokerto</h2>
-        <p>MITRA KOMPUTER Bekerja sama dengan unit usaha mandiri SMECONE CORNER di SMK Negeri 1 Purwokerto dan para siswanya, khususnya siswa X PPLG, X TJKT, XII RPL dan XII TKJ agar dapat memasarkan produk dengan lebih cepat.</p>
+        <p>MITRA KOMPUTER SOKARAJA Bekerja sama dengan unit usaha mandiri SMECONE CORNER di SMK Negeri 1 Purwokerto dan para siswanya, khususnya siswa X PPLG, X TJKT, XII RPL dan XII TKJ agar dapat memasarkan produk dengan lebih cepat.</p>
       </Section>
       <Hero>
         <h2 className="text-3xl mb-5">Banyak pilihan produk... <i>Beneran!</i></h2>
@@ -30,7 +30,7 @@ function LandingPage() {
       </Section>
       <Section>
         <h2 className="text-2xl text-blue-500 mb-6 text-center">Sudah menentukan pilihan anda?</h2>
-        <p className="mb-5">Perkenalkan saya Iwan Haryatno. Siswa XII RPL 1 di SMK Negeri 1 Purwokerto. Saya merupakan salah satu <em>reseller</em> produk MITRA KOMPUTER lewat SMK Negeri 1 Purwokerto. Jika anda ingin membeli produk mereka, anda bisa menghubungi saya melalui whatsapp <strong>+6288232400859</strong>, Atau klik saja link dibawah ini.</p>
+        <p className="mb-5">Perkenalkan saya Iwan Haryatno. Siswa XII RPL 1 di SMK Negeri 1 Purwokerto. Saya merupakan salah satu <em>reseller</em> produk MITRA KOMPUTER SOKARAJA lewat SMK Negeri 1 Purwokerto. Jika anda ingin membeli produk mereka, anda bisa menghubungi saya melalui whatsapp <strong>+6288232400859</strong>, Atau klik saja link dibawah ini.</p>
         <p className="mb-8">Melalui saya, pesanan anda akan diantarkan ke tempat yang anda inginkan mulai tanggal 2 Januari 2023, tanpa tambahan biaya.</p>
         <a href="https://wa.me/+6288232400859" target="_blank" rel="noreferrer" className="inline-block p-4 font-normal rounded-xl bg-blue-500 text-white hover:bg-blue-600 focus:ring focus:ring-blue-200 transition-colors">
           Hubungi Iwan Haryatno

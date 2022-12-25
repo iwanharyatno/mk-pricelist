@@ -79,7 +79,7 @@ function ProductCard({ name, price }) {
       <span className="block mb-2 text-lg font-light">{name}</span>
       <span className="block text-green-700">{formatCurrencyIDR(price)}</span>
       <div className="flex justify-end">
-        <a href={'https://wa.me/+6288232400859?text=' + encodeURIComponent(`Halo kak, saya mau pesan *${name}* yaa`)} target="_blank" rel="noreferrer" className="mt-4 inline-block px-4 py-2 font-normal rounded-xl bg-blue-500 text-white hover:bg-blue-600 focus:ring focus:ring-blue-200 transition-colors">
+        <a href={'https://wa.me/+6288232400859?text=' + encodeURIComponent(`Halo, saya mau pesan *${name}* yaa`)} target="_blank" rel="noreferrer" className="mt-4 inline-block px-4 py-2 font-normal rounded-xl bg-blue-500 text-white hover:bg-blue-600 focus:ring focus:ring-blue-200 transition-colors">
           Pesan ini
         </a>
       </div>

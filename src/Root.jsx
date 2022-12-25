@@ -10,7 +10,7 @@ function Root() {
 
   return (
     <div className="fixed top-0 left-0 w-full h-full flex flex-col overflow-y-scroll">
-      <Navbar title="Mitra Komputer" urls={navUrls} />
+      <Navbar title="Mitra Komputer Sokaraja" urls={navUrls} />
       <main className="grow">
         <Outlet />
       </main>
@@ -41,7 +41,7 @@ function Footer() {
           </ul>
         </div>
         <div className="mb-5">
-          <p className="text-lg border-b border-white/50 mb-2 py-2">MITRA KOMPUTER</p>
+          <p className="text-lg border-b border-white/50 mb-2 py-2">Mitra Komputer Sokaraja</p>
           <ul className="text-white/70">
             <li><a className="block p-4 hover:text-white focus:underline" target="_blank" rel="noreferrer" href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x2e655b9bcd58919d:0xb2b38b8f578caeb8!11m1!4b1?entry=s&sa=X">Lokasi</a></li>
             <li><a className="block p-4 hover:text-white focus:underline" target="_blank" rel="noreferrer" href="tel:(0281) 6441396">Telepon</a></li>
