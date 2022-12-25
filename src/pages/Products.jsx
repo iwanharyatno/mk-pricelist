@@ -7,6 +7,7 @@ function Products() {
   const [query, setQuery] = useState('');
 
   const displayedList = searchProduct(query, list);
+  console.log(list);
 
   useEffect(() => {
     document.title = 'Daftar Produk';
@@ -31,7 +32,7 @@ function PaginatedProductList({ products }) {
     <div>
       {pages.length !== 0 ? (
         <ul>
-          {products.slice(...activeRange).map((product) => <ProductCard name={product.name} price={product.sale_price} />)}
+          {products.slice(...activeRange).map((product) => <ProductCard product={product} />)}
         </ul>
       ) : (
         <p className="my-8 text-center font-light italic text-gray-400">Tidak ditemukan barang</p>
@@ -73,13 +74,14 @@ function PaginateLinks({ pageCount, active, onChange }) {
   );
 }
 
-function ProductCard({ name, price }) {
+function ProductCard({ product }) {
   return (
     <li className="p-5 border rounded my-5">
-      <span className="block mb-2 text-lg font-light">{name}</span>
-      <span className="block text-green-700">{formatCurrencyIDR(price)}</span>
+      <span className="block text-lg mb-1 font-light">{product.name}</span>
+      <span className="block font-bold text-sm mb-2 italic text-gray-400">{product.category}</span>
+      <span className="block text-green-700">{formatCurrencyIDR(product.sale_price)}</span>
       <div className="flex justify-end">
-        <a href={'https://wa.me/+6288232400859?text=' + encodeURIComponent(`Halo, saya mau pesan *${name}* yaa`)} target="_blank" rel="noreferrer" className="mt-4 inline-block px-4 py-2 font-normal rounded-xl bg-blue-500 text-white hover:bg-blue-600 focus:ring focus:ring-blue-200 transition-colors">
+        <a href={'https://wa.me/+6288232400859?text=' + encodeURIComponent(`Halo, saya mau pesan *${product.name}* yaa`)} target="_blank" rel="noreferrer" className="mt-4 inline-block px-4 py-2 font-normal rounded-xl bg-blue-500 text-white hover:bg-blue-600 focus:ring focus:ring-blue-200 transition-colors">
           Pesan ini
         </a>
       </div>
@@ -109,7 +111,8 @@ function formatCurrencyIDR(value) {
 
 function searchProduct(query, products) {
   return products.filter((product) => {
-    return product.name.toLowerCase().includes(query.toLowerCase());
+    const searchable = [product.name, product.category].join(' ').toLowerCase();
+    return searchable.includes(query.toLowerCase());
   });
 }
 
