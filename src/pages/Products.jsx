@@ -7,14 +7,13 @@ function Products() {
   const [query, setQuery] = useState('');
 
   const displayedList = searchProduct(query, list);
-  console.log(list);
 
   useEffect(() => {
     document.title = 'Daftar Produk';
   }, []);
 
   return (
-    <div className="p-5 max-w-xl mx-auto">
+    <div className="p-5 max-w-5xl mx-auto">
       <h2 className="font-light text-blue-500 text-3xl">Daftar Produk</h2>
       <FilterProduct onSearch={(text) => setQuery(text)} />
       <PaginatedProductList products={displayedList} />
@@ -29,9 +28,9 @@ function PaginatedProductList({ products }) {
   const activeRange = pages[activePage - 1] || pages[0];
 
   return (
-    <div>
+    <div className="my-8">
       {pages.length !== 0 ? (
-        <ul>
+        <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
           {products.slice(...activeRange).map((product) => <ProductCard product={product} />)}
         </ul>
       ) : (
@@ -76,12 +75,12 @@ function PaginateLinks({ pageCount, active, onChange }) {
 
 function ProductCard({ product }) {
   return (
-    <li className="p-5 border rounded my-5">
+    <li className="p-5 border rounded">
       <span className="block text-lg mb-1 font-light">{product.name}</span>
       <span className="block font-bold text-sm mb-2 italic text-gray-400">{product.category}</span>
-      <span className="block text-green-700">{formatCurrencyIDR(product.sale_price)}</span>
-      <div className="flex justify-end">
-        <a href={'https://wa.me/+6288232400859?text=' + encodeURIComponent(`Halo, saya mau pesan *${product.name}* yaa`)} target="_blank" rel="noreferrer" className="mt-4 inline-block px-4 py-2 font-normal rounded-xl bg-blue-500 text-white hover:bg-blue-600 focus:ring focus:ring-blue-200 transition-colors">
+      <div className="flex justify-between items-center mt-4">
+        <span className="block text-green-700 font-bold">{formatCurrencyIDR(product.sale_price)}</span>
+        <a href={'https://wa.me/+6288232400859?text=' + encodeURIComponent(`Halo, saya mau pesan *${product.name}* yaa`)} target="_blank" rel="noreferrer" className="inline-block px-4 py-2 font-normal rounded-xl bg-blue-500 text-white hover:bg-blue-600 focus:ring focus:ring-blue-200 transition-colors">
           Pesan ini
         </a>
       </div>
