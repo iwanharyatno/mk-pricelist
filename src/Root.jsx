@@ -10,7 +10,7 @@ function Root() {
 
   return (
     <div className="fixed top-0 left-0 w-full h-full flex flex-col overflow-y-scroll">
-      <Navbar title="Mitra Komputer Sokaraja" urls={navUrls} />
+      <Navbar title="Transiscomp" urls={navUrls} />
       <main className="grow">
         <Outlet />
       </main>

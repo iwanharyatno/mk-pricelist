@@ -9,7 +9,7 @@ function Products() {
   const displayedList = searchProduct(query, list);
 
   useEffect(() => {
-    document.title = 'Daftar Produk | Mitra Komputer Sokaraja - Unofficial Website';
+    document.title = 'Daftar Produk | Transiscomp';
   }, []);
 
   return (

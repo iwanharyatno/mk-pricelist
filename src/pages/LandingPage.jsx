@@ -4,18 +4,19 @@ import { useEffect } from 'react';
 
 function LandingPage() {
   useEffect(() => {
-    document.title = 'Mitra Komputer Sokaraja - Unofficial Website';
+    document.title = 'Transiscomp - Penyedia kebutuhan komputer';
   }, []);
 
   return (
     <div className="leading-loose">
       <Hero>
         <h1 className="animate-slide-right-fade md:text-center text-4xl mb-6">Semua aksesoris Komputer yang pernah anda pikirkan.</h1>
-        <p className="animate-slide-right-fade font-light">Produk MITRA KOMPUTER SOKARAJA dapat memenuhi semua kebutuhan untuk komputer, laptop atau bahkan smartphone anda.</p>
+        <p className="animate-slide-right-fade font-light">Transiscomp menyediakan semua kebutuhan untuk komputer, laptop atau bahkan smartphone anda.</p>
       </Hero>
       <Section>
-        <h2 className="text-2xl text-blue-500 mb-6 text-center">Kerja sama dengan SMK Negeri 1 Purwokerto</h2>
+        <h2 className="text-2xl text-blue-500 mb-6 text-center">Siapa Transiscomp?</h2>
         <p>MITRA KOMPUTER SOKARAJA Bekerja sama dengan unit usaha mandiri SMECONE CORNER di SMK Negeri 1 Purwokerto dan para siswanya, khususnya siswa X PPLG, X TJKT, XII RPL dan XII TKJ agar dapat memasarkan produk dengan lebih cepat.</p>
+        <p>Nah, <strong>Transiscomp</strong> adalah salah satunya. Transiscomp dijalankan oleh salah satu siswa XII RPL di SMK Negeri 1 Purwokerto.</p>
       </Section>
       <Hero>
         <h2 className="text-3xl mb-5 mt-8">Banyak pilihan produk... <i>Beneran!</i></h2>
@@ -26,12 +27,12 @@ function LandingPage() {
       </Hero>
       <Section>
         <h2 className="text-2xl text-blue-500 mb-6 text-center">Waktu terbatas!</h2>
-        <p>Siswa hanya dapat menerima pesanan sampai tanggal <strong>31 Desember 2022</strong>. Setelah itu mereka akan mulai mengantarkan pesanan anda. Jadi ayo putuskan apa yang ingin anda beli sekarang!</p>
+        <p>Siswa hanya dapat menerima pesanan sampai tanggal <strong>30 Desember 2022</strong>. Setelah itu mereka akan mulai mengantarkan pesanan anda. Jadi ayo putuskan apa yang ingin anda beli sekarang!</p>
       </Section>
       <Section>
         <h2 className="text-2xl text-blue-500 mb-6 text-center">Sudah menentukan pilihan anda?</h2>
-        <p className="mb-5">Perkenalkan saya Iwan Haryatno. Siswa XII RPL 1 di SMK Negeri 1 Purwokerto. Saya merupakan salah satu <em>reseller</em> produk MITRA KOMPUTER SOKARAJA lewat SMK Negeri 1 Purwokerto. Jika anda ingin membeli produk mereka, anda bisa menghubungi saya melalui whatsapp <strong>+6288232400859</strong>, Atau klik saja link dibawah ini.</p>
-        <p className="mb-8">Melalui saya, pesanan anda akan diantarkan ke tempat yang anda inginkan mulai tanggal 2 Januari 2023, tanpa tambahan biaya.</p>
+        <p className="mb-5">Perkenalkan saya Iwan Haryatno. Siswa XII RPL 1 di SMK Negeri 1 Purwokerto sekaligus admin Transiscomp. Jika anda ingin membeli produk mereka, anda bisa menghubungi saya melalui whatsapp <strong>+6288232400859</strong>, Atau klik saja link dibawah ini.</p>
+        <p className="mb-8">Dengan Transiscomp, pesanan anda akan diantarkan ke tempat yang anda inginkan mulai tanggal 2 Januari 2023, tanpa tambahan biaya untuk pesanan hingga tanggal 30 Desember 2022.</p>
         <a href="https://wa.me/+6288232400859" target="_blank" rel="noreferrer" className="inline-block p-4 font-normal rounded-xl bg-blue-500 text-white hover:bg-blue-600 focus:ring focus:ring-blue-200 transition-colors">
           Hubungi Iwan Haryatno
         </a>
