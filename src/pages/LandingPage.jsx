@@ -8,7 +8,7 @@ function LandingPage() {
   }, []);
 
   return (
-    <>
+    <div className="leading-loose">
       <Hero>
         <h1 className="animate-slide-right-fade md:text-center text-4xl mb-6">Semua aksesoris Komputer yang pernah anda pikirkan.</h1>
         <p className="animate-slide-right-fade font-light">Produk MITRA KOMPUTER SOKARAJA dapat memenuhi semua kebutuhan untuk komputer, laptop atau bahkan smartphone anda.</p>
@@ -18,9 +18,9 @@ function LandingPage() {
         <p>MITRA KOMPUTER SOKARAJA Bekerja sama dengan unit usaha mandiri SMECONE CORNER di SMK Negeri 1 Purwokerto dan para siswanya, khususnya siswa X PPLG, X TJKT, XII RPL dan XII TKJ agar dapat memasarkan produk dengan lebih cepat.</p>
       </Section>
       <Hero>
-        <h2 className="text-3xl mb-5">Banyak pilihan produk... <i>Beneran!</i></h2>
+        <h2 className="text-3xl mb-5 mt-8">Banyak pilihan produk... <i>Beneran!</i></h2>
         <p className="mb-5 font-light">Ada 200+ produk dengan berbagai macam kategori. Mulai dari Flashdisk, Headset, Charger bahkan Harddisk, RAM atau Motherboard.</p>
-        <Link to="/products" className="inline-block border border-white p-4 rounded-xl hover:bg-white hover:text-blue-500 transition-colors">
+        <Link to="/products" className="inline-block mb-5 border border-white p-4 rounded-xl hover:bg-white hover:text-blue-500 transition-colors">
           Lihat semua produk
         </Link>
       </Hero>
@@ -37,7 +37,7 @@ function LandingPage() {
         </a>
         <p className="text-gray-500 italic text-sm mt-5">*) Anda juga bisa memesan ke salah satu kenalan anda di kelas X PPLG, X TJKT, XII RPL atau XII TKJ lhoo!</p>
       </Section>
-    </>
+    </div>
   );
 }
 
