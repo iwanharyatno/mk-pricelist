@@ -4,14 +4,14 @@ import { useEffect } from 'react';
 
 function LandingPage() {
   useEffect(() => {
-    document.title = 'Transiscomp - Penyedia kebutuhan komputer';
+    document.title = 'Transiscomp - Reseller kebutuhan komputer';
   }, []);
 
   return (
     <div className="leading-loose">
       <Hero>
         <h1 className="animate-slide-right-fade md:text-center text-4xl mb-6">Semua aksesoris Komputer yang pernah anda pikirkan.</h1>
-        <p className="animate-slide-right-fade font-light">Transiscomp menyediakan semua kebutuhan untuk komputer, laptop atau bahkan smartphone anda.</p>
+        <p className="animate-slide-right-fade font-light">Transiscomp dapat memberikan semua kebutuhan untuk komputer, laptop atau bahkan smartphone anda.</p>
       </Hero>
       <Section>
         <h2 className="text-2xl text-blue-500 mb-6 text-center">Siapa Transiscomp?</h2>
