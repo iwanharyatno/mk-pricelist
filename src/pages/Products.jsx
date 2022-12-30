@@ -79,7 +79,8 @@ function ProductCard({ product }) {
       <span className="block text-lg mb-1 font-light">{product.name}</span>
       <span className="block font-bold text-sm mb-2 italic text-gray-400">{product.category}</span>
       <div className="flex justify-between items-center mt-4">
-        <span className="block text-green-700 font-bold">{formatCurrencyIDR(product.sale_price)}</span>
+        <span className="grow block text-green-700 font-bold">{formatCurrencyIDR(product.sale_price)}</span>
+        <a href={`https://www.google.com/search?q=${encodeURIComponent(product.name)}&tbm=isch`} target="_blank" rel="noreferrer" className="block mx-4 px-4 py-2 text-blue-500 rounded-xl transition-colors hover:bg-blue-500 hover:text-white">Gambaran</a>
         <a href={'https://wa.me/+6288232400859?text=' + encodeURIComponent(`Halo, saya mau pesan *${product.name}* yaa`)} target="_blank" rel="noreferrer" className="inline-block px-4 py-2 font-normal rounded-xl bg-blue-500 text-white hover:bg-blue-600 focus:ring focus:ring-blue-200 transition-colors">
           Pesan ini
         </a>
